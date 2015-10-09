@@ -484,6 +484,7 @@
 				9D5631DA1BBE20A6002A9969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D5631DB1BBE20A6002A9969 /* Build configuration list for PBXNativeTarget "HW1Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				9D5631DD1BBE20A6002A9969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D5631DE1BBE20A6002A9969 /* Build configuration list for PBXNativeTarget "HW1UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				9D5631E01BBE20A6002A9969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
